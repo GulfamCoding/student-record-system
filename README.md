@@ -107,5 +107,5 @@ Let me know — let’s launch it! 🚀
 ## 👤 Author
 
 Gulfam Zafar — Backend Developer  
-[Your GitHub Link] | [Your LinkedIn] | [Your Website]
+https://github.com/GulfamCoding | www.linkedin.com/in/gulfam-zafar-b194ab1b6 |
 =======
